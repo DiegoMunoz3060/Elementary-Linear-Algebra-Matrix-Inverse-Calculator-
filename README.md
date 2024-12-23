@@ -6,7 +6,7 @@ This project is a stand-alone program designed to calculate the inverse of matri
 - **Main**:
   - This file includes comments made throught the process of each phase
   - Running this program will output a determinant, an inverse matrix and launch the GUI
-  - For a smooth compilation follow "How to run"
+  - For a smooth compilation follow "Installation"
  
 
     
@@ -39,4 +39,4 @@ This project is a stand-alone program designed to calculate the inverse of matri
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/Matrix-Inverse-Calculator.git
-   cd Matrix-Inverse-Calculator
+   cd InverseCalculator
