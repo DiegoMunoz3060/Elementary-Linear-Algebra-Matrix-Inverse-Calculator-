@@ -1,7 +1,15 @@
 # Matrix Inverse Calculator
 
-This project is a stand-alone program designed to calculate the inverse of matrices of various sizes. Developed as part of an honors project for Linear Algebra, the program includes algorithms for determinant calculation, cofactor expansion, and Reduced Row Echelon Form (RREF) conversion, along with a GUI implementation using Tkinter.
+This project is a stand-alone program designed to calculate the inverse of matrices of various sizes. Developed as part of an honors project for Linear Algebra, the program includes algorithms for determinant calculation utilizing the cofactor expansion algorithm, and Reduced Row Echelon Form (RREF) conversion, along with a GUI implementation using Tkinter.
 
+## Files
+- **Main**:
+  - This file includes comments made throught the process of each phase
+  - Running this program will output a determinant, an inverse matrix and launch the GUI
+  - For a smooth compilation follow "How to run"
+ 
+
+    
 ## Features
 
 - **Recursive Cofactor Expansion**:
