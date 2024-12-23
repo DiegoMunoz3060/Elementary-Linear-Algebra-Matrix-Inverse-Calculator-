@@ -2,7 +2,7 @@
 
 This project is a stand-alone program designed to calculate the inverse of matrices of various sizes. Developed as part of an honors project for Linear Algebra, the program includes algorithms for determinant calculation utilizing the cofactor expansion algorithm, and Reduced Row Echelon Form (RREF) conversion, along with a GUI implementation using Tkinter.
 
-[Project Documentation](https://docs.google.com/document/d/1ROUzap_b9GLO0e9ZMZ7b28Lw70bN7yFQUME-doyFONI/edit?usp=sharing)(https://docs.google.com/document/d/e/2PACX-1vTPo5_JCOv6qMG_FXFnsRALtCrRJA8xmDIOdy1mKP2JJCXpMfFtCdSwEsw0SwBmOazu9Bg865nRTSLm/pub)
+[Project Documentation](https://docs.google.com/document/d/e/2PACX-1vTPo5_JCOv6qMG_FXFnsRALtCrRJA8xmDIOdy1mKP2JJCXpMfFtCdSwEsw0SwBmOazu9Bg865nRTSLm/pub)
 
 
 ## Files
