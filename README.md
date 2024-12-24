@@ -10,8 +10,13 @@ This project is a stand-alone program designed to calculate the inverse of matri
   - This file includes comments made throught the process of each phase
   - Running this program will output a determinant, an inverse matrix and launch the GUI
   - For a smooth compilation follow "Installation"
- 
-
+- **CofactorExpansion**:
+  - This file is not part of the Inverse Calculator program.
+  - Cofactor expansion is an algorithm used to find the determinant of any size matrix
+  - You do not need to install any libraries for this file
+- **InverseCalculator**:
+  - This is the backend of the GUI program
+  - TKinter is required to run tbis program
     
 ## Features
 
